@@ -1,0 +1,21 @@
+product_id,name,category,price,unit,dietary_labels,image_filename
+0,Organic Whole Milk,Dairy,4.99,1 gallon,organic,product_000.jpg
+1,Grass-Fed Whole Milk,Dairy,5.49,0.5 gallon,grass-fed,product_001.jpg
+2,Almond Milk Unsweetened,Dairy Alternative,3.99,0.5 gallon,"vegan, dairy-free",product_002.jpg
+3,Oat Milk Barista Edition,Dairy Alternative,4.49,0.5 gallon,vegan,product_003.jpg
+4,Greek Yogurt Plain,Dairy,5.99,32 oz,high-protein,product_004.jpg
+5,Organic Strawberries,Produce,4.99,1 lb,organic,product_005.jpg
+6,Blueberries Fresh,Produce,3.99,6 oz,,product_006.jpg
+7,Bananas Organic,Produce,1.99,1 bunch,organic,product_007.jpg
+8,Sourdough Bread,Bakery,4.49,1 loaf,vegan,product_008.jpg
+9,Whole Wheat Bread,Bakery,3.49,1 loaf,vegan,product_009.jpg
+10,Free Range Eggs,Eggs,5.99,12 count,cage-free,product_010.jpg
+11,Organic Eggs,Eggs,6.49,12 count,organic,product_011.jpg
+12,Cheddar Cheese Block,Cheese,4.99,8 oz,,product_012.jpg
+13,Mozzarella Cheese,Cheese,3.99,8 oz,,product_013.jpg
+14,Chicken Breast Boneless,Meat,7.99,1 lb,high-protein,product_014.jpg
+15,Salmon Fillet,Seafood,12.99,1 lb,omega-3,product_015.jpg
+16,Coffee Beans Medium Roast,Beverages,9.99,12 oz,vegan,product_016.jpg
+17,Green Tea Bags,Beverages,3.99,20 count,vegan,product_017.jpg
+18,Potato Chips Classic,Snacks,3.49,8 oz,,product_018.jpg
+19,Dark Chocolate Bar,Snacks,2.99,3.5 oz,vegan,product_019.jpg
